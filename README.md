@@ -1,0 +1,2 @@
+# Stochaistic-gradient-descent-
+optimizer 
